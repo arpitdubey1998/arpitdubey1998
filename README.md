@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @arpitdubey1998
+- 👀 I’m interested in Data Analsyt Position.
+- 🌱 I’m currently learning SQL, POWER BI, Advance Excel.
+- 💞️ I’m looking to collaborate on Individual projects
+- 📫 Reach me at Arpitdubey349@gmail.com.
